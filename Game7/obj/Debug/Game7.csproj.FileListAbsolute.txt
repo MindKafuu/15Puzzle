@@ -1,0 +1,32 @@
+c:\users\user\documents\visual studio 2015\Projects\Game7\Game7\bin\Debug\Game7.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\bin\Debug\Game7.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\obj\Debug\Game7.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\obj\Debug\Game7.P1_Login.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\obj\Debug\Game7.P1_Play.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\obj\Debug\Game7.P1_Play_Time.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\obj\Debug\Game7.P1_Score.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\obj\Debug\Game7.P2_Login.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\obj\Debug\Game7.P2_Play_Time.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\obj\Debug\Game7.P2_Play.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\obj\Debug\Game7.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\obj\Debug\Game7.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\obj\Debug\Game7.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\obj\Debug\Game7.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\obj\Debug\Game7.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game7\Game7\bin\Debug\Game7.pdb
+D:\mind\Game7\Game7\Game7\bin\Debug\Game7.exe.config
+D:\mind\Game7\Game7\Game7\bin\Debug\Game7.exe
+D:\mind\Game7\Game7\Game7\bin\Debug\Game7.pdb
+D:\mind\Game7\Game7\Game7\obj\Debug\Game7.csprojResolveAssemblyReference.cache
+D:\mind\Game7\Game7\Game7\obj\Debug\Game7.Form1.resources
+D:\mind\Game7\Game7\Game7\obj\Debug\Game7.P1_Login.resources
+D:\mind\Game7\Game7\Game7\obj\Debug\Game7.P1_Play.resources
+D:\mind\Game7\Game7\Game7\obj\Debug\Game7.P1_Play_Time.resources
+D:\mind\Game7\Game7\Game7\obj\Debug\Game7.P1_Score.resources
+D:\mind\Game7\Game7\Game7\obj\Debug\Game7.P2_Login.resources
+D:\mind\Game7\Game7\Game7\obj\Debug\Game7.P2_Play_Time.resources
+D:\mind\Game7\Game7\Game7\obj\Debug\Game7.P2_Play.resources
+D:\mind\Game7\Game7\Game7\obj\Debug\Game7.Properties.Resources.resources
+D:\mind\Game7\Game7\Game7\obj\Debug\Game7.csproj.GenerateResource.Cache
+D:\mind\Game7\Game7\Game7\obj\Debug\Game7.exe
+D:\mind\Game7\Game7\Game7\obj\Debug\Game7.pdb
